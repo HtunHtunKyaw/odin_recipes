@@ -1,0 +1,1 @@
+This is the very first project from The Odin Project. It includes all of the HTML knowledge that've been taught so far.
